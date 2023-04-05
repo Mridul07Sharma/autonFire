@@ -17,6 +17,8 @@ construction of more complex and sophisticated robots.
 ### • Robot chassis with motors and wheel (any type)
 ### • A small can
 ### • Connecting wires
+### • Smoke Sensors
+### • Water Pump
 
 The robots have sensors that have an IR receiver which
 detects fire. This is because of the fact that burning fire
