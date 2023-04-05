@@ -8,7 +8,7 @@ the fire. This enables us to learn the underlying concepts
 of robotics. This will further serve as the base for
 construction of more complex and sophisticated robots.
 
-**Components Required: **
+**Components Required**
 ### • Arduino UNO
 ### • Fire sensor or Flame sensor (3 Nos)
 ### • Servo Motor (SG90)
